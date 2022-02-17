@@ -127,7 +127,7 @@ def main(argv):
   elif FLAGS.mode == 'eval':
     evaluator(model, params)
 
-  print('Norm value')
+  print('Norm value 25')
 
 if __name__ == '__main__':
   app.run(main)
